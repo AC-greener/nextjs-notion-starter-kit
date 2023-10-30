@@ -64,6 +64,7 @@ export default class MyDocument extends Document {
             <Main />
 
             <NextScript />
+            <script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="ed8fdaca-ade6-47a9-bb00-7ef7aaef483a" async></script>
           </body>
         </Html>
       </IconContext.Provider>
