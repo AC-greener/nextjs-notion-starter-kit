@@ -3,7 +3,7 @@ import Document, { Head, Html, Main, NextScript } from 'next/document'
 
 import { IconContext } from '@react-icons/all-files'
 
-export default class MyDocument extends Document {
+export default class MyDocument extends Document { 
   render() {
     return (
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
